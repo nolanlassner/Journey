@@ -4,9 +4,13 @@ Game is a 2d top down adventure syle game.
 
 ### Updates:
 
-3/1/22: game layout created and tinkering with code
-2/18/22: learning pygame and sharpening python skills. working on game layout
-2/9/22: blog site created
+
+
+3/1/22: https://docs.google.com/document/d/1NrFN2SmuA3VWpxKfK_4dBUPwqMpOPrtX2dfcM_mkuew/edit?usp=sharing
+
+2/18/22: https://docs.google.com/document/d/1ma2NkscTPUVO1DE_CBkDcS8r7QvOuOe2szxfNIljj_Y/edit?usp=sharing
+
+2/9/22: https://docs.google.com/document/d/1UYPkoM_V61Twwg3CYUXKG0-Auw7RfKZ3hUNdMO3c2hQ/edit?usp=sharing
 
 
 
